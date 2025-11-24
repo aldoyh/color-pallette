@@ -1,0 +1,5 @@
+{
+  "name": "Chroma AI",
+  "description": "A personal dashboard to organize and save color themes. Extract beautiful color palettes from CSS code, website URLs, or images using the power of AI.",
+  "requestFramePermissions": []
+}
